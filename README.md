@@ -1,6 +1,12 @@
 # LabsPT22-Sprint1
 
-Our team decided to focus on building a bot that would act as a NPC (Non-Player) to fix a lack of available players. This will aloow players to feel as if they are surrounded by other players willing to read and create with them.
+Our team decided to focus on building a bot that would act as a NPC (Non-Player) to fix a lack of available players. This will aloow players to feel as if they are surrounded by other players willing to read and create with them. We broke these down in to user stories such as, 'When do I want the bot to appear', 'Where should the bot grab data to use', 'How should the bot know how many instances to create of itself.'
+
+While creating this we worked on a logic of how the bot should work such as:
+1) Detect how many users are playing.
+2) How many slots are currently not filled by players.
+3) How many bots are required to fill the empty slots.
+etc.
 
 We hope that the user will have a more enjoyable interaction with the app to promote continued use if the user sees more people playing.
 
